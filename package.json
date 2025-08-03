@@ -1,0 +1,22 @@
+{
+  "name": "com.vahaponur.pivotadjuster",
+  "version": "1.0.0",
+  "displayName": "Pivot Adjuster",
+  "description": "A Unity Editor tool that allows you to change the pivot point of meshes by modifying vertex positions. Includes 9 preset pivot positions.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/vahaponur/pivotadjuster",
+  "changelogUrl": "https://github.com/vahaponur/pivotadjuster/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/vahaponur/pivotadjuster/blob/main/LICENSE.md",
+  "keywords": [
+    "pivot",
+    "mesh",
+    "editor",
+    "tool",
+    "3d"
+  ],
+  "author": {
+    "name": "Vahap Onur",
+    "email": "openAnIssue@CannotGiveMail.com",
+    "url": "https://github.com/vahaponur"
+  }
+}
